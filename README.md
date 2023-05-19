@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi 👋, I'm Anshumann Ravichandar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
@@ -13,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://linkedin.com/in/anshumann ravichandar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshumann ravichandar" height="30" width="40" /></a>
+ <a href="[https://linkedin.com/in/anshumann ravichandar](https://www.linkedin.com/in/anravi-4294b8236)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshumann ravichandar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/coding_explorer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coding_explorer" height="30" width="40" /></a>
 </p>
 
