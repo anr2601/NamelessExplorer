@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Anshumann Ravichandar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on *Cultural Tales*
+- 🔭 I’m currently working on *SmartLens*
 
-- 👯 I’m looking to collaborate on *Web Development, MERN and similar stacks*
+- 👯 I’m looking to collaborate on *Web Development, Machine Learning and similar stacks*
 
-- 💬 Ask me anything about *React, Next, Express, Node, MySQL, MongoDB*
+- 💬 Ask me anything about *React, Next, Python, Langchain*
 
 - 📫 How to reach me *arx3099@gmail.com*
 
